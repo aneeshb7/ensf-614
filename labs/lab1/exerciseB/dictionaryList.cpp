@@ -1,4 +1,4 @@
-// lookuptable.cpp
+// dictionaryList.cpp
 
 // Lab 1 - Exercise A
  

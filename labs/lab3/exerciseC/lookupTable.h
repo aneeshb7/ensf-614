@@ -23,7 +23,7 @@ using namespace std;
 //    is introduced which represents a key/data pair.
 
 
-typedef int LT_Key; 
+typedef int LT_Key;
 typedef Customer LT_Datum;
  
 struct Pair 

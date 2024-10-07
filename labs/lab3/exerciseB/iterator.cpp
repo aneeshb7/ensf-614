@@ -138,7 +138,7 @@ T Vector<T>::VectIter::operator--(int)
 }
 
 template <class T>
-T Vector<T>::VectIter::operator*()
+T Vector<T>::VectIter::operator *()
 {
   return v->array[index];
 }
